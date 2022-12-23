@@ -3,7 +3,7 @@ package com.NiruSoft.Ecommerce.entity;
 import lombok.Getter;
 import lombok.Setter;
 
-// @Entity
+ @Entity
  @Table(name="product_category")
  @Getter
  @Setter
